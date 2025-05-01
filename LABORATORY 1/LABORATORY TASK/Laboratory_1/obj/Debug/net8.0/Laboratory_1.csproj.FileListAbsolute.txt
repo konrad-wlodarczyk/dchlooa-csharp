@@ -1,0 +1,28 @@
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.exe
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.deps.json
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.runtimeconfig.json
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.dll
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.pdb
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.AssemblyInfo.cs
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.dll
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\refint\Laboratory_1.dll
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.pdb
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.genruntimeconfig.cache
+C:\Users\wloda\Desktop\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\ref\Laboratory_1.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.exe
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.deps.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.runtimeconfig.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\bin\Debug\net8.0\Laboratory_1.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.AssemblyInfo.cs
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\refint\Laboratory_1.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\Laboratory_1.genruntimeconfig.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 1\TASK\Laboratory_1\Laboratory_1\obj\Debug\net8.0\ref\Laboratory_1.dll
