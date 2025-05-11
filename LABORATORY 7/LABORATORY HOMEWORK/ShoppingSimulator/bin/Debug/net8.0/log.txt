@@ -1,0 +1,9 @@
+MoveNorth
+MoveWest
+MoveWest
+MoveSouth
+MoveSouth
+MoveEast
+MoveEast
+MoveNorth
+MoveNorth
