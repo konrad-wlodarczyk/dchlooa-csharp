@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.exe
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.deps.json
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.runtimeconfig.json
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.dll
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.pdb
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.AssemblyInfo.cs
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.dll
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\refint\C3.dll
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.pdb
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.genruntimeconfig.cache
+C:\Users\student\Desktop\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\ref\C3.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.exe
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.deps.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.runtimeconfig.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\bin\Debug\net8.0\C3.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.AssemblyInfo.cs
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\refint\C3.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\C3.genruntimeconfig.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 3\LABORATORY 3\Laboratory_3\obj\Debug\net8.0\ref\C3.dll
