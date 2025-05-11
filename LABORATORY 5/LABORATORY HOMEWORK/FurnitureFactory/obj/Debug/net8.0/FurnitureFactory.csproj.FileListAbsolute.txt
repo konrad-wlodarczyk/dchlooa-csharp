@@ -1,0 +1,28 @@
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.exe
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.deps.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.runtimeconfig.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.AssemblyInfo.cs
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\refint\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.genruntimeconfig.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 2\HOMEWORK\FurnitureFactory\obj\Debug\net8.0\ref\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.exe
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.deps.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.runtimeconfig.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\bin\Debug\net8.0\FurnitureFactory.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.AssemblyInfo.cs
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\refint\FurnitureFactory.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\FurnitureFactory.genruntimeconfig.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 5\LABORATORY 5 HOMEWORK\FurnitureFactory\obj\Debug\net8.0\ref\FurnitureFactory.dll
