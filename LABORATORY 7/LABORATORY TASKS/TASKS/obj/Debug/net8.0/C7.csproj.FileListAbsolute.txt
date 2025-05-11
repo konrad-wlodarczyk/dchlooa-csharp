@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\TASKS\TASKS\bin\Debug\net8.0\C7.exe
+C:\Users\student\Desktop\TASKS\TASKS\bin\Debug\net8.0\C7.deps.json
+C:\Users\student\Desktop\TASKS\TASKS\bin\Debug\net8.0\C7.runtimeconfig.json
+C:\Users\student\Desktop\TASKS\TASKS\bin\Debug\net8.0\C7.dll
+C:\Users\student\Desktop\TASKS\TASKS\bin\Debug\net8.0\C7.pdb
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.AssemblyInfo.cs
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.dll
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\refint\C7.dll
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.pdb
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\C7.genruntimeconfig.cache
+C:\Users\student\Desktop\TASKS\TASKS\obj\Debug\net8.0\ref\C7.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.AssemblyInfoInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.AssemblyInfo.cs
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.csproj.CoreCompileInputs.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\refint\C7.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\bin\Debug\net8.0\C7.exe
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\bin\Debug\net8.0\C7.deps.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\bin\Debug\net8.0\C7.runtimeconfig.json
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\bin\Debug\net8.0\C7.dll
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\bin\Debug\net8.0\C7.pdb
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\C7.genruntimeconfig.cache
+C:\Users\wloda\Desktop\HIGH OBJECT-ORIENTED PROGRAMMING\LABORATORY 7\TASKS\obj\Debug\net8.0\ref\C7.dll
