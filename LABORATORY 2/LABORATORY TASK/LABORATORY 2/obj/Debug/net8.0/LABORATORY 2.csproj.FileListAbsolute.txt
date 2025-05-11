@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\LABORATORY 2\bin\Debug\net8.0\LABORATORY 2.exe
+C:\Users\student\Desktop\LABORATORY 2\bin\Debug\net8.0\LABORATORY 2.deps.json
+C:\Users\student\Desktop\LABORATORY 2\bin\Debug\net8.0\LABORATORY 2.runtimeconfig.json
+C:\Users\student\Desktop\LABORATORY 2\bin\Debug\net8.0\LABORATORY 2.dll
+C:\Users\student\Desktop\LABORATORY 2\bin\Debug\net8.0\LABORATORY 2.pdb
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.AssemblyInfo.cs
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.dll
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\refint\LABORATORY 2.dll
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.pdb
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\LABORATORY 2.genruntimeconfig.cache
+C:\Users\student\Desktop\LABORATORY 2\obj\Debug\net8.0\ref\LABORATORY 2.dll
